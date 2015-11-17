@@ -1,6 +1,7 @@
 # grunt-buddha-fam2
 
 > buddha sunshine
+>在.js文件前加入字符画注释
 
 ## Getting Started
 This plugin requires Grunt.
